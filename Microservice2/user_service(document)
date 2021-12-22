@@ -1,0 +1,20 @@
+User-service
+	port 9001
+
+end point 
+	/user/1344
+
+
+contact service
+	port 9002
+
+
+apigateway
+	port 8999
+
+e-server
+	port 8761
+
+hys-dashboard
+	port 9555
+-------------------------------------
